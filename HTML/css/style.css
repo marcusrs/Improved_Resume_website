@@ -125,7 +125,7 @@ button {
 .btn_custom:active,
 .btn_custom:focus,
 .btn_custom:hover,
-.open > .dropdown-toggle.btn_custom {
+.open>.dropdown-toggle.btn_custom {
     color: #f1f1f1;
     background-color: #000;
     border-color: #000;
@@ -144,7 +144,7 @@ button {
 .btn_outline_custom:active,
 .btn_outline_custom:focus,
 .btn_outline_custom:hover,
-.open > .dropdown-toggle.btn_outline_custom {
+.open>.dropdown-toggle.btn_outline_custom {
     color: #000;
     background-color: #fff;
     border-color: #fff;
@@ -173,7 +173,7 @@ button {
     padding-bottom: 80px;
 }
 
-.section_title span{
+.section_title span {
     font-size: 30px;
 }
 
@@ -375,7 +375,7 @@ button {
 ==================*/
 
 .bg_home_personal_img {
-    background-image: url(../images/img1.jpg);
+    background-image: url(../images/mypicture4.jpg);
     position: relative;
     background-position: center center;
     background-size: cover;
